@@ -1,0 +1,6 @@
+{
+    "defaultSchema": "demo_staging",
+    "assertionSchema": "demo_assertions",
+    "warehouse": "bigquery",
+    "defaultDatabase": "project-bigdataiot-cloud"
+}
